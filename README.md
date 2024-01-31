@@ -23,7 +23,8 @@ Step into the future of operating systems with OS Pro!
 
 These are the softwares you need to install before getting started.
 - Any IDE(VS code, VS, DevC++ etc)
--Virtuale Machine like VMware
+  
+- Virtuale Machine like VMware
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
